@@ -1,0 +1,90 @@
+11:59:49,531 F: (ErlangCore.java:77) : Starting CORE Thread[main,6,main]
+11:59:49,534 I: (ErlangCoreLogger.java:43) : *** starting Erlide v0.17.2.201209170837 (core=0.17.2.201209170837) *** (MacCyrillic) 
+11:59:49,538 F: (ErlangCore.java:94) : Started CORE
+11:59:49,542 F: (ErlideUIPlugin.java:148) : Starting UI Thread[main,6,main]
+11:59:49,542 F: (ErlideUIPlugin.java:155) : Started UI
+11:59:49,570 F: (RuntimeInfoManager.java:205) : set erlide runtime: erlang R15B01
+12:00:11,501 F: (BackendFactory.java:40) : Create ide backend
+12:00:11,510 F: (BackendFactory.java:53) : Create backend 429c4_achurkin_5a2776_erlide
+12:00:11,518 F: (BackendUtils.java:188) : detected longName=10.0.1.6  shortName=MacBook-Air-Aleksey.local
+12:00:11,528 F: (ErlangLaunchDelegate.java:84) : doLaunch runtime erlang (erlang)
+12:00:11,528 F: (ErlangLaunchDelegate.java:86) : doLaunch cookie erlide (erlide)
+12:00:11,529 I: (GenericBackendData.java:51) : Backend data:run mode,  with attributes::
+12:00:11,530 I: (GenericBackendData.java:61) : org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING: ISO-8859-1
+12:00:11,530 I: (GenericBackendData.java:61) : *..cookie                     : erlide
+12:00:11,530 I: (GenericBackendData.java:61) : *..extra_args                 : 
+12:00:11,531 I: (GenericBackendData.java:61) : *..has_backend                : true
+12:00:11,531 I: (GenericBackendData.java:61) : *..longName                   : false
+12:00:11,532 I: (GenericBackendData.java:61) : *..managed                    : true
+12:00:11,532 I: (GenericBackendData.java:61) : *..nodeName                   : 429c4_achurkin_5a2776_erlide
+12:00:11,533 I: (GenericBackendData.java:61) : *..runtime                    : erlang
+12:00:11,533 I: (GenericBackendData.java:61) : process_factory_id            : org.erlide.core.ertsProcessFactory
+12:00:11,533 I: (GenericBackendData.java:66) : ---------------
+12:00:11,535 F: (ErlangLaunchDelegate.java:159) : START node :> [/usr/local/lib/erlang/bin/erl, -pa, *DEFAULT*, -sname, 429c4_achurkin_5a2776_erlide, -setcookie, erlide] *** /Users/achurkin/Downloads/eclipse/Eclipse.app/Contents/MacOS
+12:00:11,560 F: (ErlangLaunchDelegate.java:178) : process is running
+12:00:11,572 F: (ErtsProcess.java:27) : # create ErtsProcess: 429c4_achurkin_5a2776_erlide
+12:00:11,574 F: (ErlangLaunchDelegate.java:138) : Started erts: 429c4_achurkin_5a2776_erlide >> 429c4_achurkin_5a2776_erlide
+12:00:11,593 F: (ErlRuntime.java:292) : using cookie 'erlide...'6 (info: 'erlide')
+12:00:11,598 F: (Backend.java:240) : 429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local: waiting connection to peer...
+12:00:11,704 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:12,018 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:12,321 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:12,624 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:12,927 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:13,230 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:13,533 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:13,836 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:14,140 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:14,442 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:14,745 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:15,048 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:15,351 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:15,654 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:15,957 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:16,260 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:16,563 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:16,866 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:17,169 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:17,471 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:26,783 S: (Backend.java:403) : error starting code server for erlang: timeout in erlang:whereis/1
+12:00:26,783 S: (Backend.java:248) : Could not connect to backend! Please check runtime settings.
+12:00:26,785 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:27,088 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:27,390 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:27,692 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:27,995 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:28,297 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:28,600 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:28,903 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:29,206 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:29,508 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:29,811 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:30,114 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:30,417 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:30,719 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:31,022 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:31,325 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:31,627 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:31,930 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:32,233 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:32,536 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:41,843 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:42,145 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:42,449 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:42,751 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:43,054 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:43,356 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:43,659 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:43,961 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:44,264 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:44,567 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:44,869 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:45,172 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:45,475 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:45,778 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:46,080 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:46,384 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:46,686 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:46,989 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:47,291 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
+12:00:47,594 F: (ErlRuntime.java:108) : # ping...429c4_achurkin_5a2776_erlide@MacBook-Air-Aleksey.local main
