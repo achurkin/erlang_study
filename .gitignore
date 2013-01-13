@@ -1,3 +1,6 @@
 .idea
 *.beam
 .metadata
+.project
+
+.settings/org.erlide.core.prefs
